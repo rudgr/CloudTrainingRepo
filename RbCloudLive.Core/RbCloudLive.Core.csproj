@@ -14,7 +14,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="octokit" Version="0.32.0" />
-		<PackageReference Include="UmbracoCms.Core" Version="8.0.2" />
+		<PackageReference Include="UmbracoCms.Core" Version="8.5.4" />
 		<PackageReference Include="UmbracoCms.Web" Version="8.0.2" />
 	</ItemGroup>
 </Project>
